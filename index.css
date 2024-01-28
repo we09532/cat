@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: "InterVariable";
+}
+
+header {
+    background-color: #ff8200;
+    padding: 8px;
+}
+
+main {
+    margin: 16px;
+    text-align: center;
+}
