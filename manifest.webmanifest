@@ -1,0 +1,16 @@
+{
+  "short_name": "LibreKitten",
+  "name": "LibreKitten",
+  "description": "Mod of TurboWarp to make coding easier",
+  "icons": [
+    {
+      "src": "images/favicon.png",
+      "type": "image/png",
+      "sizes": "168x167"
+    }
+  ],
+  "start_url": "editor",
+  "background_color": "#333333",
+  "display": "standalone",
+  "theme_color": "#333333"
+}
